@@ -127,7 +127,7 @@ const generateHTML = (pageName) => {
       <p class="output">Now just don't stare at me </p>
       <p class="output">You can't do anything to me .</p>
       <p class="output">Cut the tab right now 😡 </p>
-      <p class="output">Good luck with your work ✌.</p>
+      <p class="output">Concentrate on your work 👨‍💻 </p>
     </div>`;
   };
 
