@@ -2,6 +2,7 @@
     "manifest_version": 2,
     "name": "Social Sites Blocker",
     "version": "0.0.1",
+    "icons": {"350": "newext.PNG"},
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
