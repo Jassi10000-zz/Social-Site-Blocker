@@ -1,2 +1,0 @@
-1. manifest.json is the most imp file while coding a chrome extension as it contains all the configuration information for the extension and with help of this chrome will be able to recognise
-your project as an extenshion
